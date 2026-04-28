@@ -50,7 +50,8 @@ To quantify the multiple factors into two main attributes for exploration, we co
 
 ## Repository Structure
 * `Report.ipynb`: The main Jupyter Notebook containing the full data analysis, visualization, and modeling workflow.
-* *(Add links or descriptions to other scripts or data files if present in your repository)*
+* *pipeline.jpg*
+* *three datasets in csv*
 
 ## Author
-* **Dai Jingxing** **Zhang Zexuan** **Fang Xinqin** - Nanyang Technological University (DSAI)
+* **Dai Jingxing**, **Zhang Zexuan**, **Fang Xinqin** - Nanyang Technological University (DSAI)
